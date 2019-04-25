@@ -9,7 +9,7 @@ In today’s world where online retail generates a lot of data about customers, 
 
 ## Components
 
-`asd`
+`${asd}`
 
 | Components           | Code          | Details          |
 |:-------------        |:-------------:|:---------------|
