@@ -9,6 +9,8 @@ In today’s world where online retail generates a lot of data about customers, 
 
 ## Components
 
+`asd`
+
 | Components           | Code          | Details          |
 |:-------------        |:-------------:|:---------------|
 | The "Ext-Streamer"   | extractor |AWS Lambda function crawls (Extracting) in this S3 bucket for new files on a fixed schedule (leveraging Amazon CloudWatch Events) and copies the new files into an interim S3 bucket. This triggers another Lambda which processes the incoming file and spits out(Streaming) chunks of JSON objects containing *n* reviews at a time which are another S3 bucket which will be consumed by Spark Streaming Job for sentiment analysis.|
