@@ -7,7 +7,7 @@ In today’s world where online retail generates a lot of data about customers, 
 ## Architecture
 <img src="https://user-images.githubusercontent.com/12944490/56706666-d2196600-66e3-11e9-9683-022d63600116.png" width="100%" height="600">
 
-## 
+## Components
 
 | Components           | Code          | Details          |
 | -------------        |:-------------:|:----------------:|
