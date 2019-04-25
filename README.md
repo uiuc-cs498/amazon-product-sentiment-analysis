@@ -1,4 +1,4 @@
 # Amazon Product Reviews Sentiment Analysis
 Sentiment Analysis of Amazon Product Review Data
 
-https://user-images.githubusercontent.com/12944490/56706621-b1511080-66e3-11e9-883b-ef6f183ef7fd.png
+![Screen Shot 2019-04-24 at 22 52 32](https://user-images.githubusercontent.com/12944490/56706666-d2196600-66e3-11e9-9683-022d63600116.png)
